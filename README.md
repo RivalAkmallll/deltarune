@@ -2,6 +2,13 @@
 
 A feature-rich Discord bot built with modular architecture, designed for high performance and reliability.
 
+---
+
+## Acknowledgments & Credits
+This project is originally based on **[Discord-OwO-Bot](https://github.com/ChristopherBThai/Discord-OwO-Bot)** created by **Christopher Thai**. Feel free to check out the original repository for reference, issues, or pull requests!
+
+---
+
 ## Self-Hosting
 
 This Discord bot utilizes [MariaDB](https://mariadb.org/) and [Redis](https://redis.io/) for its database management systems. 
